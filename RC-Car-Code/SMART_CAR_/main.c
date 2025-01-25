@@ -112,7 +112,7 @@ void Automatic_Mode_1()
 	{
 		LCD_Clear_Screen();
 		LCD_vSendString(" Automatic Mode ");
-		PWM_Timer0_Generate(AUTOMATIC_SPEED);
+		PWM_Timer2_Generate(AUTOMATIC_SPEED);
 	}
 	while(Automatic_1)
 	{
