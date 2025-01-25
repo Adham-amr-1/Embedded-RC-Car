@@ -39,7 +39,7 @@
 #define MAXIMUM_SPEED            90
 #define MINIMUM_SPEED            50
 #define CAR_DEFAULT_SPEED        80
-#define AUTOMATIC_SPEED          60 // Changes using UltraSonic Reading
+#define AUTOMATIC_SPEED          30 // Changes using UltraSonic Reading
 
 #define MAX_DISTANCE             40
 /*===================================== Macros =====================================*/
