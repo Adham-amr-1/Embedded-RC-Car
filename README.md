@@ -107,17 +107,3 @@ Embedded-RC-Car/
 This project is licensed under the [MIT License](LICENSE), allowing reuse with attribution.
 
 ---
-
-## 👤 Author
-
-**Adham Amr**  
-🎓 Embedded Systems Developer | IEEE Member  
-🔗 [GitHub](https://github.com/Adham-amr-1) | [LinkedIn](https://www.linkedin.com/in/adhamamr1/)
-
----
-
-## 🙌 Acknowledgements
-
-Special thanks to:
-- My embedded systems instructors and mentors.
-- IEEE FCIH and project team collaborators for ongoing support.
